@@ -1,0 +1,11 @@
+.raya {
+	text-decoration: line-through;
+	color: white;
+}
+.nueva {
+	color: red;
+}
+
+li {
+	list-style: none;
+}
